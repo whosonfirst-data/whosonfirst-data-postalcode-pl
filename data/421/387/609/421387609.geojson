@@ -1,0 +1,52 @@
+{
+  "id": 421387609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"PL",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        85687309,
+        102191581,
+        85633723,
+        101913139,
+        102079721
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"12861656"
+    },
+    "wof:country":"PL",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191581,
+            "country_id":85633723,
+            "county_id":102079721,
+            "locality_id":101913139,
+            "postalcode_id":421387609,
+            "region_id":85687309
+        }
+    ],
+    "wof:id":421387609,
+    "wof:lastmodified":1459816468,
+    "wof:name":"23-275",
+    "wof:parent_id":"101913139",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
